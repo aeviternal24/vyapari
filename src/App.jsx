@@ -816,7 +816,7 @@ export default function App() {
         input::placeholder { color: #2d4060; }
       `}</style>
 
-      <div style={{ display: "flex", height: "100vh", background: "#070d17", overflow: "hidden", fontFamily: "'DM Sans', sans-serif" }}>
+      <div style={{ display: "flex",width: "100%", height: "100vh", background: "#070d17", overflow: "hidden", fontFamily: "'DM Sans', sans-serif" }}>
 
         {/* ── Sidebar ── */}
         <motion.aside

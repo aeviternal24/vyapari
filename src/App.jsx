@@ -807,7 +807,7 @@ export default function App() {
       <style>{`
         @import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,700&display=swap');
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        body, #root { height: 100%; width: 100%; }
+        html, body, #root { height: 100%; width: 100%; margin: 0; padding: 0; display: flex; flex: 1; }
         @keyframes spin { to { transform: rotate(360deg); } }
         ::-webkit-scrollbar { width: 5px; }
         ::-webkit-scrollbar-track { background: transparent; }

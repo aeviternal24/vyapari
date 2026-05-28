@@ -2,7 +2,7 @@
 
 Vyapari is a full-stack web application I built to solve a real problem — information overload for business professionals. Instead of spending hours across multiple news sites, financial blogs, and learning platforms, Vyapari brings everything into one unified, AI-powered interface.
 
-Live Demo: [vyapari-yair-afoc2kwvn-abhi-s-projects24.vercel.app](https://vyapari-yair-afoc2kwvn-abhi-s-projects24.vercel.app)
+Live Demo: [vyapari-yair-git-main-abhi-s-projects24.vercel.app](vyapari-yair-git-main-abhi-s-projects24.vercel.app)
 
 ---
 
